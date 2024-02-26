@@ -1,0 +1,14 @@
+.titulo{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 20px;
+}
+body{
+ 
+	align-items: center;
+	flex-direction: column;
+	background-color: antiquewhite;
+	
+}
